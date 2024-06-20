@@ -1,0 +1,6 @@
+Archive: stable
+Version: 1.0
+Component: non-free
+Origin: debian_buster
+Architecture: amd64
+Description: this is a test repo

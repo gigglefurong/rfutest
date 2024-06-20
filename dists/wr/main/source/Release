@@ -1,0 +1,6 @@
+Archive: stable
+Version: 1.0
+Component: main
+Origin: debian_buster
+Architecture: source
+Description: this is a test repo
